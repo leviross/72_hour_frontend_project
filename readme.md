@@ -20,7 +20,7 @@ Don't worry about backend for this project. Your project will probably just be a
 | purpose | home page | demos |
 |----|----|----|
 | Drawing / visual | [http://svgjs.com/](http://svgjs.com/) | obvious on homepage |
-| Drawing / visual | [http://paperjs.org/](http://paperjs.org/) | on homepage |
+| Drawing / visual | [http://paperjs.org/](http://paperjs.org/) | [nyan](http://paperjs.org/examples/nyan-rainbow/), [Other demos](http://paperjs.org/examples) |
 | Data Visualization | [http://d3js.org/](http://d3js.org/) | obvious on homepage |
 | Physics | [http://wellcaffeinated.net/PhysicsJS/](http://wellcaffeinated.net/PhysicsJS/) | on homepage |
 | 2D | [http://cutjs.org/](http://cutjs.org/) | obvious on homepage |
