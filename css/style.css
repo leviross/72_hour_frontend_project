@@ -16,8 +16,9 @@ div.play{
   color: rgba(255,255,255,0.9);
 }
 h3{
-  color: rgba(255,255,255,0.8);
+  color: rgba(255,255,255,1);
   padding-top: 4%;
+  font-family: Arial;
 }
 div#hidden{
   height: 65%;
